@@ -1,6 +1,8 @@
 # Stock-Data-Analysis
 Stock Price Prediction using Gradient Boosting and ARIMA
+
 📌 Project Overview
+
 This project explores stock price prediction using Gradient Boosting Regression (GBR) and ARIMA models. The goal is to analyze historical stock prices, apply machine learning techniques, and evaluate their performance in predicting future prices.
 
 🔍 Methodology
